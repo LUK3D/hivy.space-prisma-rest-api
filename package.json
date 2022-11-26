@@ -1,0 +1,9 @@
+{
+  "name": "hello-prisma",
+  "version": "1.0.0",
+  "description": "First project with Prisma",
+  "main": "index.js",
+  "author": "luk3d",
+  "license": "MIT",
+  "private": false
+}
